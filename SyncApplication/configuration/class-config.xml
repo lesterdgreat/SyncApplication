@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+	<class-name>
+		<table-name>GMLOAP</table-name>
+		<classpath-name>com.sync.entity.Application</classpath-name>
+	</class-name>
+	<class-name>
+		<table-name>GMLOCA</table-name>
+		<classpath-name>com.sync.entity.CIF</classpath-name>
+	</class-name>
+</class>
